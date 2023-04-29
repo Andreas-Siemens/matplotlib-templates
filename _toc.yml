@@ -1,0 +1,21 @@
+﻿# Table of contents
+
+root: index.md
+format: jb-book
+#numbered: false
+
+defaults:
+  numbered: false
+  
+parts:
+- caption: Line Charts
+  chapters:
+  - file: line-charts/line-chart-simple.ipynb
+  - file: line-charts/line-chart-detailed.ipynb
+#- caption: Bar Charts
+#  chapters:
+#  - file: bar-charts/bar-chart-simple.ipynb
+#  - file: bar-charts/bar-chart-detailed.ipynb
+#- caption: Scatter Plots
+#  chapters:
+#  - file: 
