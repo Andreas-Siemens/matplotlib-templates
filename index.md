@@ -2,3 +2,6 @@
 
 ```{tableofcontents}
 ```
+
+```{glue:figure} fig_simple
+```
